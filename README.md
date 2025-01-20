@@ -1,1 +1,1 @@
-# JavaScript-Algorithms-and-Data-Structures-Beta-_freeCodeCamp
+# JavaScript-Algorithms-and-Data-Structures-freeCodeCamp
